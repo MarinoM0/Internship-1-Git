@@ -3,4 +3,4 @@ Josip ima 1 pobjeda i 1 poraza!
 
 OXX
 OXO
-.OX
+XOX
